@@ -18,6 +18,9 @@ E tambem é possivel cadastrar empresas que poderá ser visto menu de cadastrar 
 Sistema responsivo e dinamico de acordo com a tela do seu dispositivo: 
 ![image](https://github.com/user-attachments/assets/d979d386-6a5a-44f3-a98b-7b094fd27490)
 
+Imagem do DB: 
+![image](https://github.com/user-attachments/assets/cb09ca74-b78e-42bb-a55b-bc61febb13b9)
+
 Devido ao tempo e a não poder usar nenhum framework front e back houve um atraso na entrega do sistema. 
 
 
